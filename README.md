@@ -132,7 +132,7 @@ df.isnull().sum()
 
 # Non null After
 ![Screenshot 2023-08-19 094229](https://github.com/vasundrasriravi/ODD2023-Datascience-Ex01/assets/119393983/b85eb546-7a9c-4e71-8108-3fcbacea46cb)
-![Screenshot 2023-08-19 094321](https://github.com/vasundrasriravi/ODD2023-Datascience-Ex01/assets/119393983/b9f5b69d-c82f-4f82-aaed-326496d51c8c)
+![Screenshot 2023-08-19 094321](https://github.com/vasundrasriravi/ODD2023-Datascience-Ex01/assets/119393983/b9f5b69d-c82f-4f82-aaed-326496d51c8)
 
 # RESULT:
 Thus the given data is read,cleansed and the cleaned data is saved into the file.
